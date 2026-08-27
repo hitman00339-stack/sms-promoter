@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "template": "Hello {barber_name}, check out our new app for {shop_name}! Download here: https://yourdomain.com",
+  "barbers": [
+    {
+      "phone": "+919876543210",
+      "barber_name": "Rahul",
+      "shop_name": "Style Cut Salon"
+    },
+    {
+      "phone": "+917080118274",
+      "barber_name": "Amit",
+      "shop_name": "Crown Barbershop"
+    }
+  ]
+}
