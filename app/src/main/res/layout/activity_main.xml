@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="📱 SMS Auto Promoter"
+        android:text="SMS Auto Promoter"
         android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="#0F172A" />
@@ -48,7 +48,6 @@
         android:layout_marginTop="12dp"
         android:textStyle="bold" />
 
-    <!-- Default set to 5 seconds -->
     <EditText
         android:id="@+id/etDelay"
         android:layout_width="match_parent"
@@ -60,7 +59,7 @@
         android:id="@+id/btnStart"
         android:layout_width="match_parent"
         android:layout_height="55dp"
-        android:text="🚀 FETCH &amp; START CAMPAIGN"
+        android:text="FETCH AND START CAMPAIGN"
         android:backgroundTint="#2563EB"
         android:textColor="#FFFFFF"
         android:textStyle="bold"
